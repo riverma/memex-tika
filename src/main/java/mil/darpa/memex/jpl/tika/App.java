@@ -7,6 +7,11 @@ import org.apache.tika.parser.CompositeParser;
 import org.apache.tika.parser.Parser;
 import mil.darpa.memex.jpl.tika.parser.*;
 
+/**
+ * 
+ * @author rverma
+ *
+ */
 public class App 
 {
 	
